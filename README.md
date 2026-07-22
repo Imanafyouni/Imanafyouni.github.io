@@ -1,1 +1,13 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Iman Afyouni
+
+Personal website for Iman Afyouni, Materials Scientist and Mechanical Engineer.
+
+Live site: https://imanafyouni.github.io
+
+A static single-page site (HTML and CSS, no build step).
+
+- `index.html` main page
+- `stylesheet.css` styles
+- `images/` portrait
+- `files/` CV (PDF)
+- `pubs/` publication figures
